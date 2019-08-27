@@ -1,2 +1,2 @@
-# architect
-to be a software architect
+### 学习笔记
+- [Git]()
